@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 35,
+        "department": "Engineering",
+        "salary": 95000,
+        "hire_date": "2019-03-15",
+        "email": "john.doe@company.com",
+        "performance_rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 28,
+        "department": "Marketing",
+        "salary": 72000,
+        "hire_date": "2020-07-01",
+        "email": "jane.smith@company.com",
+        "performance_rating": 4.8
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "age": 42,
+        "department": "Engineering",
+        "salary": 105000,
+        "hire_date": "2017-11-20",
+        "email": "bob.johnson@company.com",
+        "performance_rating": 4.2
+    },
+    {
+        "id": 4,
+        "name": "Alice Brown",
+        "age": 31,
+        "department": "Sales",
+        "salary": 85000,
+        "hire_date": "2018-05-10",
+        "email": "alice.brown@company.com",
+        "performance_rating": 4.6
+    },
+    {
+        "id": 5,
+        "name": "Charlie Wilson",
+        "age": 45,
+        "department": "Engineering",
+        "salary": 115000,
+        "hire_date": "2015-02-28",
+        "email": "charlie.wilson@company.com",
+        "performance_rating": 4.9
+    },
+    {
+        "id": 6,
+        "name": "Diana Martinez",
+        "age": 29,
+        "department": "Marketing",
+        "salary": 68000,
+        "hire_date": "2021-01-15",
+        "email": "diana.martinez@company.com",
+        "performance_rating": 4.3
+    },
+    {
+        "id": 7,
+        "name": "Ethan Davis",
+        "age": 38,
+        "department": "Sales",
+        "salary": 92000,
+        "hire_date": "2019-09-01",
+        "email": "ethan.davis@company.com",
+        "performance_rating": 4.7
+    },
+    {
+        "id": 8,
+        "name": "Fiona Garcia",
+        "age": 33,
+        "department": "Engineering",
+        "salary": 98000,
+        "hire_date": "2018-12-05",
+        "email": "fiona.garcia@company.com",
+        "performance_rating": 4.4
+    }
+]
