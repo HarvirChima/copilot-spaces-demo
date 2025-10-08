@@ -49,7 +49,7 @@ copilot-spaces-demo/
 **Location:** `python-api/app.py`
 
 **Prompt:**
-> "Add a new endpoint GET /api/customers/stats that returns the total number of customers and count by status"
+> "Add a new endpoint GET /api/customers/stats that returns a JSON response with: total number of customers, count by status (active/inactive), and the response should follow the same pattern as other endpoints in this file"
 
 **Shows:** Basic code generation, following existing patterns
 
